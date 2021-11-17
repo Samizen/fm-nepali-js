@@ -1,0 +1,29 @@
+{
+    "data":[
+       {
+          "mediaId":1,
+          "mediaTitle":"Radio Kantipur",
+          "mediaUrl":"http://broadcast.radiokantipur.com:7248/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/1.jpg"          
+       },
+       {
+          "mediaId":2,
+          "mediaTitle":"Kalika FM",
+          "mediaUrl":"http://kalika-stream.softnep.com:7740/;",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/2.jpg"
+       }
+       ,
+       {
+          "mediaId":9,
+          "mediaTitle":"Radio Sailung",
+          "mediaUrl":"http://live.itechnepal.com:9174/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/9.jpg"
+       },
+       {
+          "mediaId":10,
+          "mediaTitle":"Radio Bihani",
+          "mediaUrl":"http://live.itechnepal.com:9108/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/10.png"
+       }
+    ]
+ }

@@ -1,0 +1,77 @@
+{
+    "data":[
+       {
+          "mediaId":1,
+          "mediaTitle":"Radio Kantipur",
+          "mediaUrl":"http://broadcast.radiokantipur.com:7248/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/1.jpg"
+          
+       },
+       {
+          "mediaId":2,
+          "mediaTitle":"Kalika FM",
+          "mediaUrl":"http://kalika-stream.softnep.com:7740/;",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/2.jpg"
+       },
+       {
+          "mediaId":5,
+          "mediaTitle":"Radio Lumbini",
+          "mediaUrl":"http://199.193.116.130:8085//;stream.nsv",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/5.jpg"
+       },
+       {
+          "mediaId":6,
+          "mediaTitle":"Radio Pariwartan",
+          "mediaUrl":"http://37.59.42.207:8166/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/6.jpg"
+       },
+       {
+          "mediaId":7,
+          "mediaTitle":"Radio Triveni",
+          "mediaUrl":"http://199.193.116.130:8031/stream/1/",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/7.jpg"
+       },
+       {
+          "mediaId":8,
+          "mediaTitle":"Radio Annapurna",
+          "mediaUrl":"http://199.193.116.130:8091/stream/1/",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/8.png"
+       },
+       {
+          "mediaId":9,
+          "mediaTitle":"Radio Sailung",
+          "mediaUrl":"http://live.itechnepal.com:9174/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/9.jpg"
+       },
+       {
+          "mediaId":10,
+          "mediaTitle":"Radio Bihani",
+          "mediaUrl":"http://live.itechnepal.com:9108/stream",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/10.png"
+       },
+       {
+          "mediaId":11,
+          "mediaTitle":"Himal Radio Hindi Ghazals",
+          "mediaUrl":"http://144.76.110.138:9810//;stream.nsv",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/11.png"
+       },
+       {
+          "mediaId":26,
+          "mediaTitle":"Nepal FM",
+          "mediaUrl":"https://default.truestreamz.com/livefm/wtvNepalFMAIR.stream/playlist.m3u8",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/26.jpg"
+       },
+       {
+          "mediaId":29,
+          "mediaTitle":"Radio |Sagar",
+          "mediaUrl":"http://37.187.79.56:3084/stream/1/",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/"
+       },
+       {
+          "mediaId":30,
+          "mediaTitle":"Radio PMC Nepal",
+          "mediaUrl":"http://74.50.122.103:8654/stream/1/",
+          "mediaArt":"https://app.nettvnepal.com.np//images/radios/"
+       }
+    ]
+ }
